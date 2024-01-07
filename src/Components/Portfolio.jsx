@@ -31,22 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Website - Landing page for Natours, a travel agency 🧳",
+    description: "Collaboration to create a beautiful landing page for a travel agency.",
+    url: "http://jonnie-dev.github.io/natours",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dashboard for a Sea Monster Crowdfuncing program 💰",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to designing a dashboard for a crowd funding program for sea monster.",
+    url: "https://jonnie-dev.github.io/web102_prework/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Guess My Number Game 🎲",
+    description: "A simple game where the user tries to guess a number between 1 and 20.",
+    url: "https://jonnie-dev.github.io/Guess-my-number/",
   },
   {
     title: "GitHub Codespaces and github.dev",
